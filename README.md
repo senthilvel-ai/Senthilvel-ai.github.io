@@ -66,5 +66,5 @@ Building robust, low-latency infrastructure with integrated zero-trust networkin
 
 ## 📫 Connect With Me
 
-[LinkedIn:] (https://www.linkedin.com/in/senthilvel-saravanan).
+[LinkedIn:](https://www.linkedin.com/in/senthilvel-saravanan).
 
