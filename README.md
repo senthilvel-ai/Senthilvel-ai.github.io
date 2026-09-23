@@ -1,5 +1,5 @@
-# 👋 I'm Senthilvel Saravanan 
-### Principal Software Engineer & AI Systems Architect | Distributed Systems | Cloud & AI Platforms
+# Principal Software Engineer & AI Systems Architect
+### Distributed Systems | Cloud & AI Platforms | AI Governance | System Modernization
 
 I am a hands-on technical leader and architect with **28+ years of experience** driving enterprise architecture strategies, designing intelligent distributed platforms, and leading mission-critical modernization initiatives. I specialize in building large-scale search, data ingestion, event-driven architectures, and production AI systems that solve complex knowledge discovery and high-transaction problems.
 
@@ -21,7 +21,7 @@ As a trusted advisor to engineering executives, specialized in defining long-ter
 *   **Enterprise Modernization:** Led multi-year modernization programs migrating high-transaction legacy monolithic systems to cloud-native, event-driven, multi-tenant, and highly resilient architectures.
 *   **Financial Efficiency:** Delivered multi-million-dollar cost savings through strategic cloud optimization, platform consolidation, and architectural simplification.
 *   **High-Scale Domain Experience:** Architected and deployed large-scale distributed systems supporting omnichannel applications, inventory ingestion & search, logistics, shipping & payments, Databricks analytics, and enterprise communication routing.
-*   **Innovation & Patents:** Recognized as a named inventor on multiple U.S. and international patents covering distributed systems and secure communications.
+*   **Patents & Innovation:** Recognized as a named inventor on multiple U.S. and international patents covering distributed systems and secure communications.
 *   **AI-Augmented Engineering:** Championed organization-wide adoption of context-engineered development, agentic workflows, and modern software development practices to accelerate delivery.
 
 ---
