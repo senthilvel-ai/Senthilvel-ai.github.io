@@ -28,22 +28,14 @@ As a trusted advisor to engineering executives, specialized in defining long-ter
 
 ## 💡 Patents & Innovation
 
-* System and method for facilitating access of postal services account by another account
-    **[US Patent 10,255,604](https://google.com "Google Patents: US10255604B2")**
-* System and method for secure sharing of postal services
-    **[US Patent 9,818,122](https://google.com "Google Patents: US9818122B2")**
-* Enterprise entity for use in a call center
-    **[US Patent 9,454,596](https://google.com "Google Patents: US9454596B2")**
-* Method and apparatus for provisioning contact handling resources in a contact center
-    **[US Patent 9,088,659](https://google.com "Google Patents: US9088659B2")**
-* Secure, self-authenticating administrative user
-    **[US Patent 8,522,332](https://google.com "Google Patents: US8522332B2")**
-* Synchronization of multiple target system data
-    **[US Patent 8,437,462](https://google.com "Google Patents: US8437462B2")**
-* Extensible permissions for administrative systems
-    **[US Patent 8,418,232](https://google.com "Google Patents: US8418232B2")**
-* Administering multiple target Automatic Call Distributor (ACD) systems
-    **[EU Patent EP2053838 A1](https://google.com "Google Patents: EP2053838A1")** / **[CN101472016A](https://google.com "Google Patents: CN101472016A")** / **[US Patent 7,925,002](https://google.com "Google Patents: US7925002B2")**
+* System and method for facilitating access of postal services account by another account **[US Patent 10,255,604]**
+* System and method for secure sharing of postal services **[US Patent 9,818,122]**
+* Enterprise entity for use in a call center **[US Patent 9,454,596]**
+* Method and apparatus for provisioning contact handling resources in a contact center **[US Patent 9,088,659]**
+* Secure, self-authenticating administrative user **[US Patent 8,522,332]**
+* Synchronization of multiple target system data **[US Patent 8,437,462]**
+* Extensible permissions for administrative systems **[US Patent 8,418,232]**
+* Administering multiple target Automatic Call Distributor (ACD) systems **[EU Patent EP2053838 A1]** / **[CN101472016A]** / **[US Patent 7,925,002]**
 
 ---
 
